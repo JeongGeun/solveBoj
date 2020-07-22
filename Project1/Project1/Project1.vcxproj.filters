@@ -120,5 +120,11 @@
     <ClCompile Include="상금헌터.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="내려가기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MooTube.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
