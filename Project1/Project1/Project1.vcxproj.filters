@@ -126,5 +126,14 @@
     <ClCompile Include="MooTube.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="동전교환.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="페이스북.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="facebook.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
